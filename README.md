@@ -1,5 +1,5 @@
-# Diff-tool
-Diff tool written in python
+# Diff
+Diff tool written in Python
 
 This is a solution to John Cricket's challenge https://codingchallenges.fyi/challenges/challenge-diff
 # Usage
