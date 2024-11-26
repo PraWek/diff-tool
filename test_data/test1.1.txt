@@ -1,0 +1,9 @@
+function oldFunction () {
+  some();
+  code();
+}
+
+function newFunction () {
+  new();
+  code();
+}
